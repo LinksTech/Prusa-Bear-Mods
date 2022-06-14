@@ -1,5 +1,10 @@
 ## Print Settings + Bom 
 
+![CAD-STL R1](Images/1.png)
+
+![CAD-STL R1](Images/2.png)
+
+
 ## Print Settings
 
 * Filament type: PETG
@@ -26,6 +31,3 @@ You can buy the Rubber Feet from x
 x
 
 
-![CAD-STL R1](Images/1.png)
-
-![CAD-STL R1](Images/2.png)
