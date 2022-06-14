@@ -1,5 +1,6 @@
 ## Print Settings + Bom 
 
+## Print Settings
 
 * Filament type: PETG
 * Infill type : Gyroid 
@@ -9,3 +10,11 @@
 | Part | Quantity | Layer<br/>Height<br/>[mm] | Infill [%] | Num.<br/>Perimeters | Num.<br/>Top / Bottom<br/>Layers | 
 |:-----|:--------:|:-------------------------:|:----------:|:-------------------:|:--------------------------------:|
 | test 1         | 4 | 0.20 | 25| 3 | 5 |                   
+
+
+
+## Bom
+
+| Part | Quantity | 
+|:-----|:--------:|
+| test 1         | 4 | 
