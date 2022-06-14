@@ -22,7 +22,10 @@
 | M6 Hex Nut        | 4 |  |  |
 | Misumi Rubber Feet          | 4 |  | C-30-RK-3617 |
 
-You can buy the Ruber Feet from Caribou3D
+You can buy the Rubber Feet from Caribou3D 
 https://caribou3d.com/en/aluminium-extrusions/252--rubber-feet-set.html
 
 
+![Bear Hemera Fan Washer](images/bear_hemera_fan_washer_01.jpg)
+
+![Bear Hemera Fan Washer](images/bear_hemera_fan_washer_01.jpg)
