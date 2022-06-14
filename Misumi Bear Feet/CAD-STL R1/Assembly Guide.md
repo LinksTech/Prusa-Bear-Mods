@@ -26,6 +26,6 @@ You can buy the Rubber Feet from Caribou3D
 https://caribou3d.com/en/aluminium-extrusions/252--rubber-feet-set.html
 
 
-![test](Prusa-Bear-Mods/Misumi Bear Feet/CAD-STL R1/Images/1.png)
+![CAD-STL R1](Images/1.png)
 
 ![Bear Hemera Fan Washer](images/bear_hemera_fan_washer_01.jpg)
