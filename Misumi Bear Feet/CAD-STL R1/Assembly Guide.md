@@ -15,6 +15,6 @@
 
 ## Bom
 
-| Part | Quantity | 
-|:-----|:--------:|
-| test 1         | 4 | 
+| Part | Quantity | Screw Length <br/>[mm] | 
+|:-----|:--------:|:-------------------------:|
+| test 1         | 4 | xxx |
